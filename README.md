@@ -1,1 +1,3 @@
-### NodeJS Trivia Game Server and Mobile Browser Interface Prototype
+## Prototyping:
+### NodeJS Trivia Game Server
+### ReactJS Mobile Browser Interface 
