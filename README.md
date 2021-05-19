@@ -1,1 +1,1 @@
-# NodeJS Game Server and Mobile Browser Interface Prototype
+### NodeJS Trivia Game Server and Mobile Browser Interface Prototype
